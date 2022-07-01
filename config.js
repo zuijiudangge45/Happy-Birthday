@@ -48,8 +48,8 @@ var config = {
     desc: {
         turn_on: "開始",
         play: "音樂",
-        bannar_coming: "顏色",
-        balloons_flying: "好像少點東西",
+        bannar_coming: "横幅~",
+        balloons_flying: "好像少點東西...",
         cake_fadein: "蛋糕？",
         light_candle: "蠟燭？",
         wish_message: "生日快樂！",
